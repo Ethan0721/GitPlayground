@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-AhAh
-=======
-Play with git 
->>>>>>> 5ca0b9376921295601161d40933ceffed4384391
+something changed in git 2 
+
